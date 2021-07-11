@@ -1,0 +1,51 @@
+body{
+    background-image: url('https://source.unsplash.com/1600x900/?transparency');
+}
+
+h1 {
+    background-color: burlywood;
+    border-radius: 25px;
+    text-align: center;
+}
+
+button#button1 {
+    background-color: darkseagreen;
+    height: 50px;
+    width: 100%;
+    border-radius: 21px;
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    border-radius:15px;
+    height: auto;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: -25px;
+}
+
+.newUser {
+    background-color: darkseagreen;
+    padding: 1%;
+    margin-bottom: 0.5%;
+    margin-left: 3%;
+    border-radius: 45px;
+    display: inline-flex;
+    align-items: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    justify-content: center;
+    width: fit-content;
+    min-width: 40%;
+    max-width: 42%;
+    overflow: -moz-hidden-unscrollable;
+}
+
+.myUsers{
+    background-color: transparent;
+    padding: 1%;
+    margin-left: 4%;
+}
